@@ -1,7 +1,3 @@
-/* ==================================================================================
-   MIS 2201 PHASE 1: PERSONAL WEBSITE STYLESHEET
-   ==================================================================================
-   
    FILE: style.css
    PURPOSE: Main stylesheet for your personal portfolio website
    
@@ -810,6 +806,6 @@ footer {
     }
 
     .event-image img {
-        max-width: 99%;
+        max-width: 100%;
     }
 }
